@@ -1,2 +1,2 @@
-filter - bitSetOfBloomFilter
+filter - bitSetOfBloomFilter  
 // набор битов фильтра Блюма
