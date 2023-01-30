@@ -23,7 +23,7 @@ reversePolishNotationExpression
 Class Email: toAddress, fromAddress, text, attachment  
 Method sendEmail(): emailToAddress, emailAttachment
 
-6.4.
+6.4.  
 arrayOfNaturalNumbersInAscendingOrder - numbersInAscendingOrder  
 reversePolishNotationExpression - rPNExpression  
 invokeValidationServiceController - validationController  
