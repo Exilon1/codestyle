@@ -1,4 +1,4 @@
-gTPCrossSectionVersion/gTPCrossSectionEIVersion - сrossSectionVersion/CrossSectionExportImportVersion
+gTPCrossSectionVersion/gTPCrossSectionEIVersion - сrossSectionVersion/CrossSectionExportImportVersion  
 Названия из проектного ТЗ:  
 Версия изменения сечения  
 Версия изменения сечения Э/И  (экспорт/импорт)
