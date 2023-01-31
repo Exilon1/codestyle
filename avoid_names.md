@@ -1,7 +1,7 @@
 gTPCrossSectionVersion/gTPCrossSectionEIVersion - сrossSectionVersion/CrossSectionExportImportVersion  
 Названия из проектного ТЗ:  
 Версия изменения сечения  
-Версия изменения сечения Э/И  (экспорт/импорт)
+Версия изменения сечения Э/И  (экспорт/импорт)  
 gTP - префикс, обозначающий отношение сущности к Группе Точек Поставки
 
 v1/v2 - firstObj/secondObj
