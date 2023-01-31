@@ -1,6 +1,6 @@
 7.1.  
 byFilter - isSuitableByFilter  
-actualValue - isActual
+actualValue - isActual  
 okStatus - done // with class context  
 isNotCompleted - fail // with class context  
 validate - correctInputString
