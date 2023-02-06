@@ -1,3 +1,4 @@
+3.1.  
 ```java
 // Проверяет, можно ли использовать расширение для данного типа файла
 boolean allowaFileExtension(FileDescriptor file) {}
@@ -49,3 +50,6 @@ abstract class FakeNode extends Node2 {}
 // Итерируем, пока не пробежим по всем ячейкам, или пока не наткнёмся на пустую ячейку
 for (int i = 0; i < slots.length && slots[index] != null; i++) {}
 ```
+
+3.2.  
+Не было
