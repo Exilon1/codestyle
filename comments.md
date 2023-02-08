@@ -1,7 +1,7 @@
 3.1.  
 ```java
 // Проверяет, можно ли использовать расширение для данного типа файла
-boolean allowaFileExtension(FileDescriptor file) {}
+boolean allowFileExtension(FileDescriptor file) {}
 ```
 ---
 ```java
